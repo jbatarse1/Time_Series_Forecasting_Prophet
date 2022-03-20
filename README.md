@@ -58,6 +58,7 @@ Resources folder contains the following CSV files:
 `mercado_stock_price.csv`
 
 
+
 This plot "" illustrates the data within the DataFrame.
 
 
