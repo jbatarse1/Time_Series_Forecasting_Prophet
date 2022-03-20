@@ -46,11 +46,19 @@ The following installation must be performed before running the program. It incl
 ## Usage
 
 To run this application, create a clone on the local desktop. Then, initiate your conda environment and 
-open file in Jupyter Lab.
+open file in Googel Colab at colab.research.google.com
 
-Resources folder contains `Crypto Market Data` as a CSV file.
 
-This plot "Crypto Market Price Change Percentage by Time Periods" illustrates the data within the DataFrame.
+Resources folder contains the following CSV files:
+
+`google_hourly_search_trends.csv`
+
+`mercado_dauily_revenue.csv`
+
+`mercado_stock_price.csv`
+
+
+This plot "" illustrates the data within the DataFrame.
 
 
 
