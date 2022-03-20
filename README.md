@@ -12,7 +12,7 @@ Also, Visualization techniques for time series data are created to better unders
 
 This application incorportates the following required  dependancies to run:
 
-# Import the required libraries and dependencies for Python
+### Import the required libraries and dependencies for Python
 
 
 `import pandas as pd`
@@ -33,7 +33,7 @@ This application incorportates the following required  dependancies to run:
 
 The following installation must be performed before running the program. It include:
 
-# Install the required libraries in Colab.
+### Install the required libraries in Colab.
 
 `!pip install pystan`
 
