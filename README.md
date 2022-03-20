@@ -14,12 +14,19 @@ This application incorportates the following required  dependancies to run:
 
 # Import the required libraries and dependencies for Python
 
+
 `import pandas as pd`
+
 `import holoviews as hv`
+
 `from fbprophet import Prophet`
+
 `import hvplot.pandas`
+
 `import datetime as dt`
+
 `%matplotlib inline`
+
 
 
 ## Installation Guide
@@ -29,8 +36,11 @@ The following installation must be performed before running the program. It incl
 # Install the required libraries in Colab.
 
 `!pip install pystan`
+
 `!pip install fbprophet`
+
 `!pip install hvplot`
+
 `!pip install holoviews`
 
 ## Usage
